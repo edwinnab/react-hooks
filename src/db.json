@@ -1,0 +1,11 @@
+{
+    "posts" : [
+        {
+            "firstname": "",
+            "lastname": "",
+            "password": "",
+            "email": "",
+            "checkbox": ""
+        }
+    ]
+}

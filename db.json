@@ -1,0 +1,43 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "firstname": "Edwinna",
+      "lastname": "Bikeri",
+      "email": "edwinnabikeri@gmail.com",
+      "password": "1234",
+      "checkbox": "on",
+      "id": 2
+    },
+    {
+      "firstname": "Stacy",
+      "lastname": "Johns",
+      "email": "edwinnabikeri@gmail.com",
+      "password": "1234",
+      "checkbox": "on",
+      "id": 3
+    },
+    {
+      "firstname": "Edwinna",
+      "lastname": "Bikeri",
+      "email": "edwinnabikeri@gmail.com",
+      "password": "1234",
+      "checkbox": "on",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
